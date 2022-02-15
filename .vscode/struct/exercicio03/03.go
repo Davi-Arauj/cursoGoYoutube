@@ -26,7 +26,6 @@ func main() {
 		},
 		true,
 	}
-	/home/optiplex/go_projects/src/teste01/.vscode
 	corrola := sedan{
 		veiculo{
 			portas: 4,
@@ -34,6 +33,7 @@ func main() {
 		},
 		true,
 	}
+	
 		
 	fmt.Println("O veiculo é de Luxo: ",corrola.modeloLuxo)
 	fmt.Println("Cor: ",corrola.cor)
